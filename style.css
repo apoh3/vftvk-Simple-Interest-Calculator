@@ -1,4 +1,26 @@
-body {background-color:tan;}
-h1{color:green;}
+/*
+    Simple Interest Calculator Styles
 
+    Final Project for Introduction to Cloud Development with HTML, CSS, JavaScript - Coursera
+*/
+
+body {
+    background-color: black;
+    font-family: Arial;
+    color: white;
+}
+
+h1 {
+    color: grey;
+    font-family: Verdana;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
 
