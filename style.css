@@ -13,14 +13,29 @@ body {
 h1 {
     color: grey;
     font-family: Verdana;
+    white-space: nowrap;
 }
 
 .maindiv {
     background-color: white;
     color: black;
-    width: 300px;
+    line-height: 1.5em;
     padding: 20px;
     border-radius: 25px;
     margin: auto;
+}
+
+.innerdiv {
+    width: 300px;
+    margin: auto;
+}
+
+input, select {
+    float: right;
+    width: 175px;
+}
+
+footer {
+    padding-top: 8px;
 }
 
